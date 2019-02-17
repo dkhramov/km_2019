@@ -1,7 +1,7 @@
 ---
 title: "Знакомство с MATLAB"
 author: "Храмов Д. А."
-date: "10.02.2019"
+date: "17.02.2019"
 fontenc: "T2A"
 fonttheme: "professionalfonts"
 output: 
@@ -241,7 +241,8 @@ ans =
 ```
 sin(x), cos(x), tan(x), cot(x), 
 sqrt(x), 
-exp(x), log(x), log10(x)
+exp(x), log(x), log10(x),
+sinh(x), cosh(x), tanh(x)
 ```
 
 * Аргументы тригонометрических функций задаются в радианах.
