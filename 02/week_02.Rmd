@@ -1,7 +1,7 @@
 ---
 title: "Массивы. Логическая индексация"
 author: "Храмов Д. А."
-date: "15.02.2019"
+date: "10.04.2019"
 fontenc: "T2A"
 fonttheme: "professionalfonts"
 output: 
@@ -31,7 +31,7 @@ A(5)        % ?
 ```
 
 
-## Создание массивов: [], eye
+## Создание массивов: `[]`, eye
 
 \footnotesize
 
