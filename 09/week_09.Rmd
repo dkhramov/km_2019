@@ -1,7 +1,7 @@
 ---
 title: "Графические объекты. Работа с изображениями"
 author: "Храмов Д. А."
-date: "25.04.2019"
+date: "09.05.2019"
 fontenc: "T2A"
 fonttheme: "professionalfonts"
 output: 
@@ -216,6 +216,8 @@ set(h,'XData',x,'YData',y)
 Запишите каждый кадр анимации (шаг случайного блуждания) из \hyperlink{t01}{задачи 1} в массив с помощью `getframe`.
 
 Сохраните массив кадров в avi-файл функцией `movie2avi`.
+
+В MATLAB 2018 и новее вместо `movie2avi` нужно использовать `VideoWriter()` и `writeVideo()`. См. пример `write_video.m`.
 
 
 # Изображения
